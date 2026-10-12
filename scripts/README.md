@@ -1,0 +1,2 @@
+# Scripts iniciales
+Si el repositorio remoto YA tiene commits, usar `git clone` y NO `git init`/push de historia nueva. Si está vacío, usar scripts init. Git requiere usuario/email configurados y autenticación (credential manager o SSH); nunca guardar tokens en scripts. Para incorporar este scaffold: copiar documentación `project/docs` y `project/prompts` a `docs` y `prompts` en ambos repositorios, actualizar rutas del prompt y commitear. No ejecutar scripts en carpetas con código existente sin inspección.

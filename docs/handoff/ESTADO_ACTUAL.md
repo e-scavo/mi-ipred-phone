@@ -1,0 +1,2 @@
+# Handoff — estado actual
+Fecha: 2026-10-09. Fase: preparación / E0 scaffold. Ninguna POC SIP, compilación, prueba, despliegue, certificado o publicación ha sido ejecutada. Próximo paso: crear ambos repositorios, generar Flutter project en Windows y módulo Go en Linux, auditar dependencias SIP/Windows, ejecutar E1. No inventar resultados. Actualizar en cada ronda: ZIP base exacto, cambios, tests con salida, riesgos, decisiones, gate, próximo paso único.
